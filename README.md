@@ -17,7 +17,10 @@ The render textures are then projected on scene geometry.
 As you can see, the panels are rendered in the normal render texture, but not in the cubemap render texture.
 
 
-Related Unity Bugs
-------------------
+Links related to this bug
+-------------------------
 
-* [SUPPORT FOR WORLD SPACE UI ELEMENTS IN RENDERTOCUBEMAP](https://feedback.unity3d.com/suggestions/support-for-world-space-ui-elements-in-rendertocubemap) - feedback for this bug. This demo is exactly for this issue.
+* Unity Feedback: [SUPPORT FOR WORLD SPACE UI ELEMENTS IN RENDERTOCUBEMAP](https://feedback.unity3d.com/suggestions/support-for-world-space-ui-elements-in-rendertocubemap)  
+  Feedback for this bug. This demo is exactly for this issue.
+* StackOverflow: [How to make UI visible in RenderToCubemap output (or how to make cubemaps another way)](https://stackoverflow.com/questions/49796485/how-to-make-ui-visible-in-rendertocubemap-output-or-how-to-make-cubemaps-anothe)  
+  Question asked by me for this issue.
